@@ -2,8 +2,6 @@
 
 I'm a cybersecurity enthusiast dedicated to making a positive impact through secure software development and active threat mitigation.
 
-[Website](https://adamjum24.wixsite.com/adamguled) | [LinkedIn](https://www.linkedin.com/in/adamguled) | [Email](mailto:adamguled24@email.com)
-
 ## About Me ✨
 🔒 Cybersecurity Specialist with experience in various cybersecurity projects and threat assessments  
 🎓 Pursuing a B.A.S. in Cyber Operations with a concentration in Cyber Engineering from the University of Arizona  
