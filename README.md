@@ -20,15 +20,15 @@ I'm a cybersecurity enthusiast dedicated to making a positive impact through sec
 🔍 Member of Cyber Saguaros, participating in CTF competitions and cybersecurity education
 
 ## Projects 📚
-1. [**CyberApolis Water Breach Incident Response**](https://github.com/adamguled/CyberApolis-Water-Breach)
+1. [**CyberApolis Water Breach Incident Response**](https://github.com/adamguled/CyberApolis-Water-Breach-Incident-Response)
    - Neutralized a severe security breach by identifying and exploiting critical vulnerabilities.
    - Implemented enhanced protective measures, reducing future attack risks by 40%.
 
-2. [**Wireless Network Security Analysis**](https://github.com/adamguled/Wireless-Network-Security)
+2. [**Wireless Network Security Analysis**](https://github.com/adamguled/Wireless-Network-Security-Analysis)
    - Led a detailed analysis of wireless network traffic using Wireshark.
    - Improved network security protocols and overall protection by 30%.
 
-3. [**Cloud-Environment-Web-Services-Deployment**](https://github.com/adamguled/Cloud-Environment-Web-Services)
+3. [**Cloud Environment Web Services Deployment**](https://github.com/adamguled/Cloud-Environment-Web-Services-Deployment)
    - Deployed a LAMP server within Amazon AWS and installed WordPress on Ubuntu.
 
 ## Interests 👌
