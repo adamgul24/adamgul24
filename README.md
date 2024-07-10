@@ -28,7 +28,7 @@ I'm a cybersecurity enthusiast dedicated to making a positive impact through sec
    - Led a detailed analysis of wireless network traffic using Wireshark.
    - Improved network security protocols and overall protection by 30%.
 
-3. [**Cloud Environment Web Services Deployment**](https://github.com/adamguled/Cloud-Environment-Web-Services)
+3. [**Cloud-Environment-Web-Services-Deployment**](https://github.com/adamguled/Cloud-Environment-Web-Services)
    - Deployed a LAMP server within Amazon AWS and installed WordPress on Ubuntu.
 
 ## Interests 👌
